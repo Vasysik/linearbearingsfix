@@ -1,0 +1,13 @@
+{
+  "itemGroup.linearbearingsfix": "Example Mod Tab",
+  "block.linearbearingsfix.example_block": "Example Block",
+  "item.linearbearingsfix.example_item": "Example Item",
+
+  "linearbearingsfix.configuration.title": "Linear Bearings Fix Configs",
+  "linearbearingsfix.configuration.section.linearbearingsfix.common.toml": "Linear Bearings Fix Configs",
+  "linearbearingsfix.configuration.section.linearbearingsfix.common.toml.title": "Linear Bearings Fix Configs",
+  "linearbearingsfix.configuration.items": "Item List",
+  "linearbearingsfix.configuration.logDirtBlock": "Log Dirt Block",
+  "linearbearingsfix.configuration.magicNumberIntroduction": "Magic Number Text",
+  "linearbearingsfix.configuration.magicNumber": "Magic Number"
+}

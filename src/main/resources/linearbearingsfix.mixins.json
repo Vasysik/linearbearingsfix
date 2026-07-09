@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "me.zombii.linearfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ClientModHandlerMixin",
+    "LinearBearingsClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
