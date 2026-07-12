@@ -82,7 +82,7 @@ config="${mod_id}.mixins.json"
 [[dependencies.${mod_id}]] #optional
     modId="linearbearing"
     type="required"
-    versionRange="" #mandatory
+    versionRange="[1.3.5,)" #mandatory
     # An ordering relationship for the dependency.
     # BEFORE - This mod is loaded BEFORE the dependency
     # AFTER - This mod is loaded AFTER the dependency
